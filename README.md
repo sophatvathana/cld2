@@ -1,3 +1,5 @@
+**This project has been archived.  We have not made use of it in Bleve as we anticipated, and have not maintained it for quite some time.**
+
 ## this fork
 
 This is a fork of [this original repo](https://github.com/rainycape/cld2)  Basically just added a few test cases before integrating with it.
